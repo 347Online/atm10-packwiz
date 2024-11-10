@@ -1,0 +1,13 @@
+name = "More Industrial Foregoing Addons (MIFA)"
+filename = "mifa-neoforge-1.21.x-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4e2ea7e24fdd40de43da197850fddc103607da9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5849852
+project-id = 1086142

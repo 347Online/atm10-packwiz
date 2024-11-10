@@ -1,0 +1,13 @@
+name = "I'm Fast"
+filename = "imfast-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0a95722b3f99757c45482d9efe2e28fc646d4fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5768932
+project-id = 1111501

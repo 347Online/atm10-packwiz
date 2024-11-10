@@ -1,0 +1,13 @@
+name = "Hardened Armadillos"
+filename = "hardenedarmadillos-1.21.0-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "877bf89db7c2144624e9b159af4e68b5005dfed9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5425326
+project-id = 1001266

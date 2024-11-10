@@ -1,0 +1,13 @@
+name = "ATO - All the Ores"
+filename = "alltheores-2.3.6_neoforge_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ce0b9ef8e18c685effa483ee9a66aaf179a1d11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5735707
+project-id = 405593

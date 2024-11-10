@@ -1,0 +1,13 @@
+name = "Pylons"
+filename = "pylons-1.21.1-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebe81fc44f9c8798ecdcb3f957dcfeeb382b0e65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5825421
+project-id = 518211

@@ -1,0 +1,13 @@
+name = "All The Arcanist Gear"
+filename = "allthearcanistgear-1.21.1-21.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04b4ba32f16ad9b384ceec9c565be57c9b7a0c9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5687352
+project-id = 1094032

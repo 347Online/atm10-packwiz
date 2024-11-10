@@ -1,0 +1,13 @@
+name = "Actually Additions"
+filename = "actuallyadditions-1.3.9+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ffda0bd094f90c62ee4c781379e56a986266c21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5878692
+project-id = 228404

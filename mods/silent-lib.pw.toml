@@ -1,0 +1,13 @@
+name = "Silent Lib (silentlib)"
+filename = "silent-lib-1.21-neoforge-10.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "002851a483d93e937d39b73016d54162cf5490db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5730272
+project-id = 242998
